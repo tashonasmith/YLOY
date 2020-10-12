@@ -1,0 +1,48 @@
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.home { 
+    background: url(images/YLOY-Main-Banner.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.nav-wrapper {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    background-color: #96673a;
+}
+
+
+#banner-text {
+    margin-bottom: 21%;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    color: #96673a;
+}
+
+.card-panel {
+    padding: 30px;
+    margin-top: 75%;
+    font-size: 25px;
+    font-family: 'Fira Sans', sans-serif, bold;
+    background-color: #c9a15f;
+    opacity: 75%;
+}
+
+footer {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    background-color: #96673a
+}
+
+.page-footer {
+    background-color: #96673a
+}
+
+#email {
+    margin-left: 25%;
+}
