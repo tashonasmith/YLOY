@@ -25,6 +25,17 @@
     background-color: #96673a;
 }
 
+nav {
+    height: 78px;
+}
+
+#nav-logo {
+    margin-top: 20px;
+}
+
+.nav-services {
+    height: 78px;
+}
 
 #banner-text {
     margin-bottom: 21%;
