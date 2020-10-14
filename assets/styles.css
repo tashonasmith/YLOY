@@ -38,19 +38,22 @@ nav {
 }
 
 #banner-text {
-    margin-bottom: 21%;
+    margin-bottom: 13%;
     text-align: center;
     font-family: 'Fira Sans', sans-serif;
-    color: #96673a;
+    color: #3c3c3c;
 }
 
 .card-panel {
     padding: 30px;
-    margin-top: 75%;
+    margin-top: 25%;
     font-size: 25px;
     font-family: 'Fira Sans', sans-serif, bold;
     background-color: #c9a15f;
-    opacity: 75%;
+}
+
+#card-logo {
+    height: 300px
 }
 
 #services-card {
