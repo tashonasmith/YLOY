@@ -38,15 +38,15 @@ nav {
 }
 
 #banner-text {
-    margin-bottom: 13%;
+    margin-bottom: 11%;
     text-align: center;
     font-family: 'Fira Sans', sans-serif;
-    color: #3c3c3c;
+    color: #96673a;
 }
 
 .card-panel {
     padding: 30px;
-    margin-top: 25%;
+    margin-top: 23%;
     font-size: 25px;
     font-family: 'Fira Sans', sans-serif, bold;
     background-color: #c9a15f;
@@ -78,18 +78,19 @@ hr {
     font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
 
+#info-div {
+    display: flex;
+    margin-left: 12%;
+}
 
 .shirts-card {
     background-color: #3c3c3c;
+    justify-content: center;
+    align-items: center;
 }
 
 .shirts-card-title {
     color: #c9a15f;
-}
-
-.inner-card-image {
-    margin-top: 10px;
-    border-radius: 50%;
 }
 
 footer {
