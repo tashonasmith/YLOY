@@ -13,11 +13,19 @@
 }
 
 .services {
-    background: url(images/YLOY-Services-bg.png) no-repeat center center fixed; 
+    background: url(images/YLOY-large-format.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.designer {
+    background: url(images/YLOY-Screen-Print.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
 }
 
 .nav-wrapper {
