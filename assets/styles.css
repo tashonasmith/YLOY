@@ -66,7 +66,7 @@ nav {
 
 #services-card {
     padding: 30px;
-    margin-top: 7%;
+    margin-top: 5%;
     font-size: 20px;
     font-family: 'Fira Sans', sans-serif, bold;
     background-color: #c9a15f;
@@ -86,7 +86,7 @@ hr {
     font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
 
-#info-div {
+.info-div {
     display: flex;
     margin-left: 12%;
 }
@@ -99,6 +99,47 @@ hr {
 
 .shirts-card-title {
     color: #c9a15f;
+}
+
+.info-div2 {
+    display: flex;
+}
+
+.designer-card {
+    background-color: #c9a15f;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 18%;
+}
+
+.designer-card-title {
+    color: white;
+    font-size: 20px;
+    font-family: 'Fira Sans', sans-serif, bold;
+}
+
+.designer-text {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 17px;
+    margin-top: 5%;
+}
+
+.designer-button {
+    background-color: #96673a;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    margin-top: 3%;
+}
+
+#contact-card {
+    background-color: #3c3c3c;
+    text-align: center;
+    margin-left: 18%;
+}
+
+.card-title {
+    color: #c9a15f;
+    font-family: 'Fira Sans', sans-serif, bold;
 }
 
 footer {
