@@ -101,6 +101,11 @@ hr {
     color: #c9a15f;
 }
 
+.design-link {
+    color: white;
+    text-decoration: underline;
+}
+
 .info-div2 {
     display: flex;
 }
